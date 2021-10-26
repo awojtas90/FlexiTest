@@ -1,1 +1,1 @@
-# FlexiTest
+# FlexiTest Selenium + scenario
